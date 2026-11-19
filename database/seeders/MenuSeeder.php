@@ -11,7 +11,7 @@ class MenuSeeder extends Seeder
     {
         $menus = [
             [
-                'titre' => 'Menu Tradition',
+               'titre' => 'Menu traditionnel',
                 'description' => 'Un repas généreux aux saveurs authentiques.',
                 'theme' => 'Traditionnel',
                 'regime' => 'Classique',

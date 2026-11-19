@@ -12,7 +12,7 @@ class PlatAllergeneSeeder extends Seeder
     public function run(): void
     {
         $menus = [
-            'Menu Tradition' => [
+           'Menu traditionnel' => [
                 ['Entrée', 'Salade gourmande du terroir',
                     'Salade, tomates, noix et fromage de chèvre',
                     ['Lait', 'Fruits à coque']],
